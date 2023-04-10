@@ -1,6 +1,3 @@
-nes (7 sloc)  184 Bytes
- 
-
 #!/usr/bin/python3
 """  returns the list of available attributes
 and methods of an object
